@@ -1,0 +1,12 @@
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\bin\Debug\opencl.dll
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\bin\Debug\ExampleEasyCl.exe.config
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\bin\Debug\ExampleEasyCl.exe
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\bin\Debug\ExampleEasyCl.pdb
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\bin\Debug\OpenCL.Net.dll
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.csprojAssemblyReference.cache
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.Properties.Resources.resources
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.csproj.GenerateResource.cache
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.csproj.CoreCompileInputs.cache
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.csproj.CopyComplete
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.exe
+C:\Users\DBaumert\source\repos\ExampleEasyCl\ExampleEasyCl\obj\Debug\ExampleEasyCl.pdb
