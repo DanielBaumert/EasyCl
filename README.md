@@ -7,3 +7,6 @@ Compile and run your OpenCl code in C#
 - [opencl.dll](https://github.com/facebamm/EasyCl/blob/master/opencl.dll)
 
 
+## BUG
+- Example code for GPU
+
